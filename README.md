@@ -1,5 +1,6 @@
 # Essential App Case Study
 
+[![Build Status](https://app.travis-ci.com/Reynaldiw/Essential-Feed-Case-Study.svg?branch=master)](https://app.travis-ci.com/Reynaldiw/Essential-Feed-Case-Study)
 ## Image Feed Feature Specs
 
 ### Story: Customer requests to see their image feed
